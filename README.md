@@ -17,6 +17,6 @@ if(num > 0) {
 
 This is list of my links:
 
-! [my facebook]()
-! [my website]()
-! [my inst]()
+* [my facebook]()
+* [my website]()
+* [my inst]()
